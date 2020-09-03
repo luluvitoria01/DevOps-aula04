@@ -1,1 +1,1 @@
-algo
+conflito resolvido
